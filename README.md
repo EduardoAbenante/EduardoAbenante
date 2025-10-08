@@ -20,4 +20,4 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-000?&logo=mariadb)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresq
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresq)
