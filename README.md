@@ -25,11 +25,8 @@
 <h3 align="left">Tecnologías</h3>
 
 ###
-![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Bootstrap5](https://img.shields.io/badge/-Bootstrap5-000?&logo=Bootstrap)
-![Jquery](https://img.shields.io/badge/-Jquery-000?&logo=Jquery)
+![GitLab]([https://img.shields.io/badge/-Angular-000?&logo=Angular](https://icon-icons.com/es/icono/gitlab-logo/169112))
+
 
 <h3 align="left">Contactos En:</h3>
 <a href="mailto:eduabenantec@hotmail.com" target="_blank">
