@@ -25,7 +25,7 @@
 <h3 align="left">Tecnologías</h3>
 
 ###
-![GitLab]([https://img.shields.io/badge/-Angular-000?&logo=Angular](https://icon-icons.com/es/icono/gitlab-logo/169112))
+![GitLab]((https://icon-icons.com/es/icono/gitlab-logo/169112))
 
 
 <h3 align="left">Contactos En:</h3>
