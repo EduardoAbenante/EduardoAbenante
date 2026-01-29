@@ -26,6 +26,11 @@
 
 ###
 ![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=gitlab)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?&logo=springboot)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
+![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-000?&logo=thymeleaf)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)
 
 
 <h3 align="left">Contactos En:</h3>
